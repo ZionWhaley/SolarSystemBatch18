@@ -7,7 +7,10 @@ public class SolarSystem {
 
 
 
-
+FeatureSun xros= new FeatureSun();
+xros.color="Pink";
+xros.Temp = "213243";
+xros.Size = "2352353656miles";
 
     }
 }
